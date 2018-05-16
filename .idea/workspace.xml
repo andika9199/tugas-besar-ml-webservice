@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="556d0756-f39b-4747-9304-196fc97f9dc4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TBS_GLASS_CLASSIFICATION.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TBS_GLASS_CLASSIFICATION.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TBS_GLASS_CLASSIFICATION.py" beforeDir="false" afterPath="$PROJECT_DIR$/TBS_GLASS_CLASSIFICATION.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TBS_GLASS_CLASSIFICATION.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TBS_GLASS_CLASSIFICATION.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TBS_GLASS_CLASSIFICATION.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="331">
+              <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -29,7 +25,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Procfile" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -67,8 +63,8 @@
         <option value="$PROJECT_DIR$/Main.py" />
         <option value="$PROJECT_DIR$/GD3_WS_8365.py" />
         <option value="D:/Kuliah/AsistensiMachineLeanr/venv/Lib/site-packages/panda/__init__.py" />
-        <option value="$PROJECT_DIR$/TBS_GLASS_CLASSIFICATION.py" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/TBS_GLASS_CLASSIFICATION.py" />
       </list>
     </option>
   </component>
@@ -283,20 +279,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TBS_GLASS_CLASSIFICATION.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="48" selection-start-column="48" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TBS_GLASS_CLASSIFICATION.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

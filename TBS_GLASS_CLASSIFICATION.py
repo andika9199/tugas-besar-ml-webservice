@@ -94,5 +94,3 @@ def inputData():
     clf=joblib.load('static/randomForestClassifier.pkl')
     resultPredict=clf[0].predict(glassBaru)
     return jsonify({'message':format(clf[1].TypeofGlass[resultPredict])})
-
-app.run(debug=True)
