@@ -3,11 +3,11 @@ from flasgger import Swagger
 from sklearn.externals import joblib
 import numpy as np
 import pandas as pd
-
+from flask_cors import CORS
 
 app = Flask(__name__)
 Swagger(app)
-
+CORS(app)
 @app.route('/')
 def hello_world():
     return "Glass Classification"
