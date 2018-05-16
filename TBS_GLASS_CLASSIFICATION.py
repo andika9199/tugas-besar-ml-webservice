@@ -93,4 +93,4 @@ def inputData():
     glassBaru=np.array([[RefractingIndex, Natrium, Magnesium, Aluminium, Silicone, Potassium, Calcium, Barium, Iron]])
     clf=joblib.load('static/randomForestClassifier.pkl')
     resultPredict=clf[0].predict(glassBaru)
-    return jsonify({'message':format(clf[1].TypeofGlass[resultPredict])})
+    return jsonify({'message':format(resultPredict)})
