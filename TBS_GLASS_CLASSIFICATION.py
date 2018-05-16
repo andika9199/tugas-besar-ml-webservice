@@ -2,6 +2,8 @@ from flask import Flask,jsonify,request
 from flasgger import Swagger
 from sklearn.externals import joblib
 import numpy as np
+import pandas as pd
+
 
 app = Flask(__name__)
 Swagger(app)
